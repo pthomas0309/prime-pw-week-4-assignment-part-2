@@ -1,18 +1,24 @@
+body {
+  background: #fff5ee;
+}
 header {
-  background: #800000;
+  background: #ff9966;
   margin: 50px;
   text-align: center;
-  color: #89CFF0;
+  color: #f0ead6;
   font-size: 25px;
 }
 p {
-  color: #f0ead6;
   font-size: 20px;
 }
 .info {
-  background: #800080;
+  background: #915c83;
   padding-top: 5px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
+  border: 1px solid #888;
   text-align: center;
   color: #f08080;
+}
+img {
+  border: 2px solid #873260;
 }
