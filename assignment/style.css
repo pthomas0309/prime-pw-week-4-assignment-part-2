@@ -9,3 +9,10 @@ p {
   color: #f0ead6;
   font-size: 20px;
 }
+.info {
+  background: #800080;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: #f08080;
+}
