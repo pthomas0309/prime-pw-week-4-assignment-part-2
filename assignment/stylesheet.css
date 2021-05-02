@@ -21,4 +21,5 @@ p {
 }
 img {
   border: 2px solid #873260;
+  max-width: 100%;
 }
